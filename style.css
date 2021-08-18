@@ -7,3 +7,12 @@ h1{
 .name-highlight{
     color: orange;
 }
+.min-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+img{
+    width: 100%;
+}
